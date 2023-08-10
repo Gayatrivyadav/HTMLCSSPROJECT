@@ -10,7 +10,7 @@
 			background-size: 100% 100%;
 			background-attachment:fixed;
 		}
-		.parallaxone h2{
+.parallaxone h2{
 			position: relative;
 			left: 650px;
 			top: 300px;
@@ -21,15 +21,14 @@
 			color: #fff;
 			text-align: center;
 		}
-
-		.parallaxtwo{
+.parallaxtwo{
 			width:100%;
 			height: 600px;
 			background-image: url("bg2.jpeg");
 			background-size: 100% 100%;
 			background-attachment:fixed;
 		}
-		.parallaxtwo h2{
+.parallaxtwo h2{
 			position: relative;
 			left: 650px;
 			top: 300px;
